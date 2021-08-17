@@ -8,7 +8,7 @@ recap-calendar is a code develop for all of lazy people. Lazy to recap calendar 
 
 # how to use it ?
 
-## 1. Give start for this url repo https://github.com/tjandrayana
+## 1. Give star for this url repo https://github.com/tjandrayana
 
 ![](./img/star.png)
 
