@@ -1,5 +1,8 @@
 # recap-calendar
 
+WFH ??? This is very painful. Why ??? Because of you need to create your report especially your meeting !!!
+So , what we need to do ??? Yes, this is the answer ^^
+
 recap-calendar is a code develop for all of lazy people. Lazy to recap calendar meeting manually. This code used to help you recap your meeting. Your meeting will be recap automatically whenever you run this code.
 
 
