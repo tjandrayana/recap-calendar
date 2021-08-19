@@ -43,3 +43,7 @@ recap-calendar is a code develop for all of lazy people. Lazy to recap calendar 
 ## 11. Open the sheet before
 
 ![](./img/result.png)
+
+## 12. If you Need to Create Individual Task, just create an event and name it with pattern [Individual Task] your task
+
+
