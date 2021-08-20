@@ -1,9 +1,14 @@
 # recap-calendar
 
-WFH ??? This is very painful. Why ??? Because of you need to create your report especially your meeting manually!!!
-So , what we need to do ??? Yes, this is the answer ^^
+WFH ??? This is very painful. Why ??? Because you need to create your report especially your meeting manually!!! So , what we need to do ??? Yes, this is the answer ^^
+recap-calendar is a tool developed for all lazy people. Lazy to recap calendar meeting manually. This code is used to help you recap your meeting. Your meeting will be recapped automatically whenever you run this tool.
 
-recap-calendar is a code develop for all of lazy people. Lazy to recap calendar meeting manually. This code used to help you recap your meeting. Your meeting will be recap automatically whenever you run this code.
+There are 2 types provided :
+1 . Meeting
+2. Individual Task
+
+You want can Setup an Individual Task, by creating a calendar and put this prefix [Individual Task] + "the title". So, your individual work also will be reported.
+Happy WFH guys !!!
 
 
 # how to use it ?
